@@ -4,4 +4,5 @@
 A fuel management application written in python
 
 ##Demo
-![fuel-o-tron-demo](https://cloud.githubusercontent.com/assets/17185335/17826799/0e48edcc-667d-11e6-9b16-0595c93e3227.gif)
+![fuel-o-tron-demo](https://cloud.githubusercontent.com/assets/17185335/17826845/91b2d95c-667d-11e6-8bbe-2ed64402dff1.gif)
+
